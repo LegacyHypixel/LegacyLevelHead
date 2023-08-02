@@ -1,6 +1,15 @@
-# Legacy LevelHead
+<div align="center">
+  <img src="fullres_icon.png" alt="logo" width="30%"/>
+  <h1>Legacy LevelHead</h1>
+</div>
+
+## Overview
 Sk1er's LevelHead rewritten for Legacy Fabric, *doesn't require essential.gg*
 
-Ironically caches better than Sk1er's lol
+## Dependencies
 
-Licensed GPLv3
+### [Legacy Fabric](https://legacyfabric.net/)
+
+## License
+
+Licensed MIT! :3
