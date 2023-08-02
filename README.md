@@ -4,7 +4,7 @@
 </div>
 
 ## Overview
-Sk1er's LevelHead rewritten for Legacy Fabric, *doesn't require essential.gg*
+Sk1er's LevelHead rewritten from the ground up for Legacy Fabric, *doesn't require essential.gg*
 
 ## Dependencies
 
